@@ -1,4 +1,4 @@
-#mysql-immutable Vagrant Example
+# mysql-immutable Vagrant Example
 
 This demonstrates a mysql vagrant box that preserves data on a vagrant destroy + vagrant up.
 
